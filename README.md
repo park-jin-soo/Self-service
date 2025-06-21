@@ -1,2 +1,14 @@
 # Self-service
 라이선스 관리 시스템
+{
+  "users": {
+    "woodpano": {
+      "name": "woodpano",
+      "expire_date": "2025-08-21",
+      "status": "active",
+      "created_date": "2025-06-20"
+    }
+  },
+  "last_updated": "2025-06-20 14:30:00",
+  "total_users": 1
+}
